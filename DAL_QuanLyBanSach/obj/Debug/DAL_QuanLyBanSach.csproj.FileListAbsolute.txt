@@ -1,0 +1,13 @@
+C:\Users\84325\source\repos\QuanLyNhaSach279\DAL_QuanLyBanSach\bin\Debug\DAL_QuanLyBanSach.dll.config
+C:\Users\84325\source\repos\QuanLyNhaSach279\DAL_QuanLyBanSach\bin\Debug\DAL_QuanLyBanSach.dll
+C:\Users\84325\source\repos\QuanLyNhaSach279\DAL_QuanLyBanSach\bin\Debug\DAL_QuanLyBanSach.pdb
+C:\Users\84325\source\repos\QuanLyNhaSach279\DAL_QuanLyBanSach\bin\Debug\DTO_QuanLyBanSach.dll
+C:\Users\84325\source\repos\QuanLyNhaSach279\DAL_QuanLyBanSach\bin\Debug\DTO_QuanLyBanSach.pdb
+C:\Users\84325\source\repos\QuanLyNhaSach279\DAL_QuanLyBanSach\bin\Debug\DTO_QuanLyBanSach.dll.config
+C:\Users\84325\source\repos\QuanLyNhaSach279\DAL_QuanLyBanSach\obj\Debug\DAL_QuanLyBanSach.csproj.AssemblyReference.cache
+C:\Users\84325\source\repos\QuanLyNhaSach279\DAL_QuanLyBanSach\obj\Debug\DAL_QuanLyBanSach.Properties.Resources.resources
+C:\Users\84325\source\repos\QuanLyNhaSach279\DAL_QuanLyBanSach\obj\Debug\DAL_QuanLyBanSach.csproj.GenerateResource.cache
+C:\Users\84325\source\repos\QuanLyNhaSach279\DAL_QuanLyBanSach\obj\Debug\DAL_QuanLyBanSach.csproj.CoreCompileInputs.cache
+C:\Users\84325\source\repos\QuanLyNhaSach279\DAL_QuanLyBanSach\obj\Debug\DAL_Quan.D93FBCCB.Up2Date
+C:\Users\84325\source\repos\QuanLyNhaSach279\DAL_QuanLyBanSach\obj\Debug\DAL_QuanLyBanSach.dll
+C:\Users\84325\source\repos\QuanLyNhaSach279\DAL_QuanLyBanSach\obj\Debug\DAL_QuanLyBanSach.pdb
